@@ -1,0 +1,229 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.header-area {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 200px;
+    text-align: center;
+
+}
+
+.header-area h1 {
+    font-size: 65px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+.header-area p {
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+
+
+.button-style {
+
+    color: #fff;
+    background-color: #FF5959;
+    font-size: 20px;
+    padding: 16px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.amount-select-area {
+    padding: 0 100px;
+}
+
+.title-area {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.title-area h2 {
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.amount ul {
+    list-style: none;
+}
+
+.amount ul li {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.amount ul li a {
+    color: #707070;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 25px 25px;
+}
+
+.amount ul li a.orange {
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+}
+
+.amount {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.other-amount {
+    padding-top: 60px;
+    border-bottom: 1px solid #DADADA;
+    padding-bottom: 10px;
+}
+
+.other-amount a {
+    text-decoration: none;
+    color: #B3B3B3;
+}
+
+.button {
+    padding-top: 50px;
+}
+
+.feacher-box {
+    display: flex;
+    padding: 50px 100px;
+
+}
+
+.feacher-box .box {
+    background-color: rgba(79, 157, 166, 0.1);
+    width: 30%;
+    padding: 40px 20px;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.box.box-style-2 {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+.box.box-style-3 {
+    background-color: #FFF4D6;
+}
+
+.blog-area {
+    padding: 50px 100px;
+}
+
+.blog {
+    display: flex;
+}
+
+.blog-image {
+    width: 50%;
+
+}
+
+.blog-content {
+    width: 50%;
+    padding: 50px;
+}
+
+.blog-image img {
+    width: 100%;
+
+}
+
+.blog-content h2 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+
+}
+
+p.content-top {
+    padding-bottom: 25px;
+}
+
+.blog-2 {
+    padding-top: 51px;
+}
+
+.update-area {
+    padding: 0 100px;
+}
+
+.subscripe-area {
+    margin: 50px 233px;
+    text-align: center;
+    background: #FFF4D6;
+    padding: 100px;
+}
+
+.subscripe-area input {
+    padding: 16px 20px;
+    font-size: 20px;
+    border-radius: 5px 0 0px 5px;
+    border: none;
+}
+
+.subscripe-area form {
+    display: flex;
+}
+
+.subscripe-area a.button-style {
+    border-radius: 0 5px 5px 0;
+}
+
+.footer-area {
+    padding: 40px 100px;
+    text-align: center;
+    background-color: #0B0D17;
+}
+
+.footer-area h2 {
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
+    font-size: 36px;
+}
+
+.footer-area p {
+    color: #fff;
+}
+
+section.contact-form-area {
+    padding: 50px 100px;
+    text-align: left;
+}
+
+
+
+.contact-from {
+    padding: 10px 100px 100px 100px;
+    text-align: left;
+    background-color: #FFF4D6;
+    ;
+}
+
+
+.contact-from input {
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    width: 100%;
+}
+
+.contact-from textarea {
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
